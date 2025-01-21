@@ -33,10 +33,13 @@ This is the ideal solution to these challenges because it offers data-driven ins
 # Project Aim
 ## Objective of the Project
 GreenTech Innovation aims to gather insights that will enhance its human resources management through a data-driven and strategic approach. The company seeks to tackle critical HR challenges by utilizing the capabilities of HR analytics. Specifically, it aims to:
-##### Enhance Workforce Decision-Making: GreenTech Innovation intends to implement a comprehensive HR Dashboard that consolidates various HR-related data points. This dynamic platform will empower HR professionals and decision-makers to make informed and timely decisions. By visualizing key metrics related to employee performance and engagement, the organization can identify trends, patterns, and areas for improvement. This proactive approach will facilitate effective workforce planning, targeted talent development, and robust talent retention strategies.
-##### Boost Employee Satisfaction and Organizational Performance: A crucial objective is to create a workplace environment where employees can thrive. By monitoring and analyzing employee engagement levels and career growth opportunities, the company aims to improve job satisfaction and overall well-being. This focus on employee satisfaction is expected to lead to increased loyalty and productivity, positively impacting the organization’s bottom line.
+##### Enhance Workforce Decision-Making: 
+GreenTech Innovation intends to implement a comprehensive HR Dashboard that consolidates various HR-related data points. This dynamic platform will empower HR professionals and decision-makers to make informed and timely decisions. By visualizing key metrics related to employee performance and engagement, the organization can identify trends, patterns, and areas for improvement. This proactive approach will facilitate effective workforce planning, targeted talent development, and robust talent retention strategies.
+##### Boost Employee Satisfaction and Organizational Performance: 
+A crucial objective is to create a workplace environment where employees can thrive. By monitoring and analyzing employee engagement levels and career growth opportunities, the company aims to improve job satisfaction and overall well-being. This focus on employee satisfaction is expected to lead to increased loyalty and productivity, positively impacting the organization’s bottom line.
 # Data Overview
-##### GreenTech Innovation possesses an employee dataset that will be analyzed. The dataset includes the following attributes:
+##### GreenTech Innovation possesses an employee dataset that will be analyzed. 
+The dataset includes the following attributes:
 |Column|Description|
 |------|-----------|
 |EmployeeID| Unique identifier for each employee.
@@ -60,10 +63,14 @@ GreenTech Innovation aims to gather insights that will enhance its human resourc
 ### Power BI
 Power BI is a data visualization and business intelligence tool that enables users to transform raw data into meaningful insights and interactive reports. It facilitates data extraction from various sources, allows for data exploration, performs data modeling, and creates visually engaging dashboards and reports.
 Project Scope
-##### Data Importation: The data from GreenTech Innovation will be imported into the Power BI environment.
-##### Data Cleaning & Transformation: The dataset will undergo cleaning and transformation processes within Power BI.
-#### Data Modeling: Relationships among tables will be defined based on common fields or keys (primary and foreign keys).
-##### Data Analysis & Visualization: The dataset will be analyzed, with insights visualized in dashboards and reports that will be shared with stakeholders.
+##### Data Importation: 
+The data from GreenTech Innovation will be imported into the Power BI environment.
+##### Data Cleaning & Transformation: 
+The dataset will undergo cleaning and transformation processes within Power BI.
+#### Data Modeling: 
+Relationships among tables will be defined based on common fields or keys (primary and foreign keys).
+##### Data Analysis & Visualization: 
+The dataset will be analyzed, with insights visualized in dashboards and reports that will be shared with stakeholders.
 This structured approach aims to leverage HR analytics effectively, driving informed decision-making and enhancing overall organizational performance at GreenTech Innovation.
 
 
